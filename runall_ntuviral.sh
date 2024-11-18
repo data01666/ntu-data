@@ -1,5 +1,5 @@
-catkin_make -C /root/code/vins-ntu ;
-source /root/code/vins-ntu/devel/setup.bash
+catkin_make -C /root/catkin_ws ;
+source /root/catkin_ws/devel/setup.bash
 
 
 # Get the current directory
